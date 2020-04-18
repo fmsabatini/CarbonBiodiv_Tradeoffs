@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://fmsabatini.github.io/TestManubot/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://fmsabatini.github.io/TestManubot/v/c0b021e9634e11992544e1b5164673ec02f6bfe1/" />
+  <link rel="alternate" type="text/html" href="https://fmsabatini.github.io/TestManubot/v/433431bbb45d192834c92fb03fa4bded4f0bc51b/" />
 
-  <meta name="manubot_html_url_versioned" content="https://fmsabatini.github.io/TestManubot/v/c0b021e9634e11992544e1b5164673ec02f6bfe1/" />
+  <meta name="manubot_html_url_versioned" content="https://fmsabatini.github.io/TestManubot/v/433431bbb45d192834c92fb03fa4bded4f0bc51b/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://fmsabatini.github.io/TestManubot/v/c0b021e9634e11992544e1b5164673ec02f6bfe1/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://fmsabatini.github.io/TestManubot/v/433431bbb45d192834c92fb03fa4bded4f0bc51b/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://fmsabatini.github.io/TestManubot/v/c0b021e9634e11992544e1b5164673ec02f6bfe1/))
+([permalink](https://fmsabatini.github.io/TestManubot/v/433431bbb45d192834c92fb03fa4bded4f0bc51b/))
 was automatically generated
-from [fmsabatini/TestManubot@c0b021e](https://github.com/fmsabatini/TestManubot/tree/c0b021e9634e11992544e1b5164673ec02f6bfe1)
+from [fmsabatini/TestManubot@433431b](https://github.com/fmsabatini/TestManubot/tree/433431bbb45d192834c92fb03fa4bded4f0bc51b)
 on April 18, 2020.
 </em></small>
 
@@ -142,6 +142,8 @@ on April 18, 2020.
 
 
 It doesn't seem to work
+
+It actually works now. Yet, I'd prefer to keep everything private
 
 
 ## References {.page_break_before}
