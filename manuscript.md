@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://fmsabatini.github.io/TestManubot/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://fmsabatini.github.io/TestManubot/v/6d7eaf4733fa1f97b3b9c126a476bbf969c283ce/" />
+  <link rel="alternate" type="text/html" href="https://fmsabatini.github.io/TestManubot/v/986df3fa79f06eae40b888fb92e3e0c5bd4db2c2/" />
 
-  <meta name="manubot_html_url_versioned" content="https://fmsabatini.github.io/TestManubot/v/6d7eaf4733fa1f97b3b9c126a476bbf969c283ce/" />
+  <meta name="manubot_html_url_versioned" content="https://fmsabatini.github.io/TestManubot/v/986df3fa79f06eae40b888fb92e3e0c5bd4db2c2/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://fmsabatini.github.io/TestManubot/v/6d7eaf4733fa1f97b3b9c126a476bbf969c283ce/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://fmsabatini.github.io/TestManubot/v/986df3fa79f06eae40b888fb92e3e0c5bd4db2c2/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://fmsabatini.github.io/TestManubot/v/6d7eaf4733fa1f97b3b9c126a476bbf969c283ce/))
+([permalink](https://fmsabatini.github.io/TestManubot/v/986df3fa79f06eae40b888fb92e3e0c5bd4db2c2/))
 was automatically generated
-from [fmsabatini/TestManubot@6d7eaf4](https://github.com/fmsabatini/TestManubot/tree/6d7eaf4733fa1f97b3b9c126a476bbf969c283ce)
+from [fmsabatini/TestManubot@986df3f](https://github.com/fmsabatini/TestManubot/tree/986df3fa79f06eae40b888fb92e3e0c5bd4db2c2)
 on April 18, 2020.
 </em></small>
 
@@ -142,7 +142,17 @@ Policies to mitigate climate change and biodiversity loss often assume that prot
 
 
 ## Introduction
-Forests play a critical role in mitigating climate change, in addition to providing many ecosystem services fundamental to human society (FAO, 2015; MEA, 2005). The estimated amount of carbon stored in forests globally is almost 900 Pg (=1015 g), with a net global carbon sink of 1.1 Pg C per year (Pan et al., 2011). Forests also provide habitat for over half of all known terrestrial plant and animal species (MEA, 2005), albeit covering only 27% of the Earth’s land area (FAO, 2015). Conserving forests and managing them sustainably is therefore fundamental for facing two of the most pressing societal challenges of our times: biodiversity loss and climate change (MEA, 2005).
+Forests play a critical role in mitigating climate change, 
+in addition to providing many ecosystem services fundamental to human society 
+(FAO, 2015; MEA, 2005). 
+The estimated amount of carbon stored in forests globally is almost 900 Pg (=1015 g), 
+with a net global carbon sink of 1.1 Pg C per year 
+(Pan et al., 2011). 
+Forests also provide habitat for over half of all known terrestrial plant and animal species (MEA, 2005), 
+albeit covering only 27% of the Earth’s land area (FAO, 2015).
+Conserving forests and managing them sustainably is therefore fundamental 
+for facing two of the most pressing societal challenges of our times: 
+biodiversity loss and climate change (MEA, 2005).
 
 ## Materials and methods
 ### Study sites
