@@ -72,14 +72,14 @@
       }
     ],
     "ci_source": {
-      "provider": "github",
+      "provider": "travis",
       "repo_slug": "fmsabatini/TestManubot",
       "repo_owner": "fmsabatini",
       "repo_name": "TestManubot",
       "commit": "d746655f80b89994dae23280b6c41bd7c69f75f4",
       "triggering_commit": "d746655f80b89994dae23280b6c41bd7c69f75f4",
-      "build_url": "https://github.com/fmsabatini/TestManubot/commit/d746655f80b89994dae23280b6c41bd7c69f75f4/checks",
-      "job_url": "https://github.com/fmsabatini/TestManubot/runs/run2"
+      "build_url": "https://travis-ci.com/fmsabatini/TestManubot/builds/160864510",
+      "job_url": "https://travis-ci.com/fmsabatini/TestManubot/jobs/320792122"
     },
     "html_url": "https://fmsabatini.github.io/TestManubot/",
     "pdf_url": "https://fmsabatini.github.io/TestManubot/manuscript.pdf",
