@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://fmsabatini.github.io/TestManubot/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://fmsabatini.github.io/TestManubot/v/97756b0e870b2e127aeb93bfc0643e1f2f3191e1/" />
+  <link rel="alternate" type="text/html" href="https://fmsabatini.github.io/TestManubot/v/e6efe0617d799b36b2b270256a467a891c9aa564/" />
 
-  <meta name="manubot_html_url_versioned" content="https://fmsabatini.github.io/TestManubot/v/97756b0e870b2e127aeb93bfc0643e1f2f3191e1/" />
+  <meta name="manubot_html_url_versioned" content="https://fmsabatini.github.io/TestManubot/v/e6efe0617d799b36b2b270256a467a891c9aa564/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://fmsabatini.github.io/TestManubot/v/97756b0e870b2e127aeb93bfc0643e1f2f3191e1/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://fmsabatini.github.io/TestManubot/v/e6efe0617d799b36b2b270256a467a891c9aa564/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://fmsabatini.github.io/TestManubot/v/97756b0e870b2e127aeb93bfc0643e1f2f3191e1/))
+([permalink](https://fmsabatini.github.io/TestManubot/v/e6efe0617d799b36b2b270256a467a891c9aa564/))
 was automatically generated
-from [fmsabatini/TestManubot@97756b0](https://github.com/fmsabatini/TestManubot/tree/97756b0e870b2e127aeb93bfc0643e1f2f3191e1)
+from [fmsabatini/TestManubot@e6efe06](https://github.com/fmsabatini/TestManubot/tree/e6efe0617d799b36b2b270256a467a891c9aa564)
 on April 18, 2020.
 </em></small>
 
@@ -156,7 +156,7 @@ biodiversity loss and climate change (MEA, 2005).
 
 ## Materials and methods
 ### Study sites
-Our study area included a network of 352 plots in 22 temperate forest sites (ranging from 200 to 400 km2), sampled in six different projects (Burrascano et al., 2018), and covering a wide latitudinal and longitudinal range across Europe (Figure {@fig:Figure1}, Table {@tbl:example-id}). 
+Our study area included a network of 352 plots in 22 temperate forest sites (ranging from 200 to 400 km2), sampled in six different projects (@doi:10.1111/jvs.12588), and covering a wide latitudinal and longitudinal range across Europe (Figure {@fig:Figure1}, Table {@tbl:example-id}). 
 
 ![Figure 1 – Distribution of forest sites in Europe. Pie charts report the relative proportion of plots in different forest types (FTs) for each site. FTs follow EEA (2006). The size of the pie represents the number of plots in each site. Grey shadings represent the distribution of forest in Europe. FT4 - acidophilous oak and oak-birch forest; FT5 - mesophytic deciduous forest; FT6 - European beech (Fagus sylvatica) and (FT7) montane beech forest; FT8 - thermophilous deciduos forest. ](images/Fig1.map.scatterpie_mercator.jit8.png ){#fig:Figure1 width="3in"}
 
