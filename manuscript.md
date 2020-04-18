@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://fmsabatini.github.io/TestManubot/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://fmsabatini.github.io/TestManubot/v/4f4cdc40e988ff49cad66459a1d7fe5a306ca0fa/" />
+  <link rel="alternate" type="text/html" href="https://fmsabatini.github.io/TestManubot/v/d746655f80b89994dae23280b6c41bd7c69f75f4/" />
 
-  <meta name="manubot_html_url_versioned" content="https://fmsabatini.github.io/TestManubot/v/4f4cdc40e988ff49cad66459a1d7fe5a306ca0fa/" />
+  <meta name="manubot_html_url_versioned" content="https://fmsabatini.github.io/TestManubot/v/d746655f80b89994dae23280b6c41bd7c69f75f4/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://fmsabatini.github.io/TestManubot/v/4f4cdc40e988ff49cad66459a1d7fe5a306ca0fa/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://fmsabatini.github.io/TestManubot/v/d746655f80b89994dae23280b6c41bd7c69f75f4/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://fmsabatini.github.io/TestManubot/v/4f4cdc40e988ff49cad66459a1d7fe5a306ca0fa/))
+([permalink](https://fmsabatini.github.io/TestManubot/v/d746655f80b89994dae23280b6c41bd7c69f75f4/))
 was automatically generated
-from [fmsabatini/TestManubot@4f4cdc4](https://github.com/fmsabatini/TestManubot/tree/4f4cdc40e988ff49cad66459a1d7fe5a306ca0fa)
+from [fmsabatini/TestManubot@d746655](https://github.com/fmsabatini/TestManubot/tree/d746655f80b89994dae23280b6c41bd7c69f75f4)
 on April 18, 2020.
 </em></small>
 
