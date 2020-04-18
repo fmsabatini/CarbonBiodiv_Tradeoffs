@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://fmsabatini.github.io/TestManubot/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://fmsabatini.github.io/TestManubot/v/986df3fa79f06eae40b888fb92e3e0c5bd4db2c2/" />
+  <link rel="alternate" type="text/html" href="https://fmsabatini.github.io/TestManubot/v/78106da2a30ef88fdc573de1b40014050088fe2e/" />
 
-  <meta name="manubot_html_url_versioned" content="https://fmsabatini.github.io/TestManubot/v/986df3fa79f06eae40b888fb92e3e0c5bd4db2c2/" />
+  <meta name="manubot_html_url_versioned" content="https://fmsabatini.github.io/TestManubot/v/78106da2a30ef88fdc573de1b40014050088fe2e/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://fmsabatini.github.io/TestManubot/v/986df3fa79f06eae40b888fb92e3e0c5bd4db2c2/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://fmsabatini.github.io/TestManubot/v/78106da2a30ef88fdc573de1b40014050088fe2e/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://fmsabatini.github.io/TestManubot/v/986df3fa79f06eae40b888fb92e3e0c5bd4db2c2/))
+([permalink](https://fmsabatini.github.io/TestManubot/v/78106da2a30ef88fdc573de1b40014050088fe2e/))
 was automatically generated
-from [fmsabatini/TestManubot@986df3f](https://github.com/fmsabatini/TestManubot/tree/986df3fa79f06eae40b888fb92e3e0c5bd4db2c2)
+from [fmsabatini/TestManubot@78106da](https://github.com/fmsabatini/TestManubot/tree/78106da2a30ef88fdc573de1b40014050088fe2e)
 on April 18, 2020.
 </em></small>
 
@@ -157,6 +157,36 @@ biodiversity loss and climate change (MEA, 2005).
 ## Materials and methods
 ### Study sites
 Our study area included a network of 352 plots in 22 temperate forest sites (ranging from 200 to 400 km2), sampled in six different projects (Burrascano et al., 2018), and covering a wide latitudinal and longitudinal range across Europe (Figure 1, Table S1). The sites covered deciduous forest types that are common in temperate Europe, including acidophilous oak and oak-birch forests (20 plots), mesophytic deciduous forests (84 plots), European beech (Fagus sylvatica) and montane beech forests (232 plots in total), as well as thermophilous deciduos forests (16 plots). Forest type nomenclature follows EEA (2006). Although our dataset cannot be considered representative of the overall variability of these forest types, it covers a wide range of structural types (one-, two- and multi-layered stands), ages, management histories, and management regimes, including coppice, shelterwood, group selection and unmanaged stands, comprising late-successional phases of the forest succession gradient. Stands in the Hungarian dataset represent a gradient in tree species composition, from oak- to beech-dominated forest, but all sharing similar age (mature, between 70-120 yr), and mesic conditions. The datasets in the Italian and French Alps contrast pairs of managed and unmanaged stands in similar growing conditions, as well as ancient and recent forests (i.e. resulting from afforestation of previous pastures and meadows). Forest stands in the Cilento National Park were selected as a representative subset of the most common forest types in the park area, while those in the Gran Sasso National Parks spanned across a range of structural types but all belonged to beech-dominated forest types prioritised for conservation. We report summary statistics of the main structural characteristics for each forest site in Table S2 and show the distribution of silvicultural systems across sites in Figure S1.
+
+
+|    Stand Name              	|    Data source    	|    Substrate             	|    Number of Plots    	|    Annual Mean T °C    	|    Annual rainfall mm    	|    Elevation    	|    Aspect °    	|    Slope °    	|    Latitude    	|    Longitude    	|
+|----------------------------	|-------------------	|--------------------------	|-----------------------	|------------------------	|--------------------------	|-----------------	|----------------	|---------------	|----------------	|-----------------	|
+|    Auberive                	|    FR_YP          	|    Limestone             	|    22                 	|    9                   	|    800-900               	|    455          	|    229         	|    5          	|    47.749      	|    5.068        	|
+|    Ballons-Comtois         	|    FR_YP          	|    Granit                	|    14                 	|    6.9                 	|    1300-1400             	|    1043         	|    189         	|    16         	|    47.818      	|    6.798        	|
+|    Bauges                  	|    FR_ALPS        	|    Limestone             	|    29                 	|    7.2                 	|    1350-1850             	|    1107         	|    266         	|    22         	|    45.701      	|    6.167        	|
+|    Bois du Parc            	|    FR_YP          	|    Limestone             	|    9                  	|    10.9                	|    650-750               	|    195          	|    222         	|    4          	|    47.583      	|    3.649        	|
+|    Cajada   forest         	|    IT_NE          	|    Dolomite/Limestone    	|    9                  	|    7.2                 	|    1300-1500             	|    1255         	|    141         	|    11         	|    46.235      	|    12.237       	|
+|    Chartreuse              	|    FR_ALPS        	|    Limestone             	|    31                 	|    6.8                 	|    1300-1900             	|    1136         	|    245         	|    19         	|    45.339      	|    5.791        	|
+|    Chizé                   	|    FR_YP          	|    Limestone             	|    18                 	|    12                  	|    800-900               	|    89           	|    207         	|    2          	|    46.146      	|    -0.386       	|
+|    Cilento N               	|    IT_FAGUS       	|    Limestone             	|    24                 	|    10.1                	|    718-1250              	|    1272         	|    177         	|    17         	|    40.465      	|    15.339       	|
+|    Cilento S               	|    IT_CILENTO     	|    Limestone/Flysch      	|    12                 	|    11.2                	|    700                   	|    1246         	|    175         	|    17         	|    40.257      	|    15.344       	|
+|    Citeaux                 	|    FR_YP          	|    Alluvial deposits     	|    10                 	|    10.9                	|    700-800               	|    231          	|    205         	|    2          	|    47.09       	|    5.05         	|
+|    Combe Lavaux            	|    FR_YP          	|    Limestone             	|    8                  	|    9.1                 	|    800-900               	|    572          	|    197         	|    12         	|    47.226      	|    4.939        	|
+|    Fontainebleau           	|    FR_YP          	|    Acidic sands          	|    25                 	|    10.5                	|    600-700               	|    138          	|    172         	|    3          	|    48.421      	|    2.66         	|
+|    Gran Sasso              	|    IT_FAGUS       	|    Limestone             	|    19                 	|    9.1                 	|    1062-1097             	|    1354         	|    263         	|    17         	|    42.508      	|    13.514       	|
+|    Haut Tuileau            	|    FR_YP          	|    Alluvial deposits     	|    12                 	|    10                  	|    650-750               	|    175          	|    170         	|    2          	|    48.104      	|    4.188        	|
+|    Haute-Chaine du Jura    	|    FR_YP          	|    Limestone             	|    6                  	|    7.5                 	|    1300-1400             	|    1101         	|    109         	|    25         	|    46.299      	|    5.986        	|
+|    Lure                    	|    FR_YP          	|    Limestone             	|    7                  	|    8                   	|    1000-1100             	|    1448         	|    109         	|    31         	|    44.123      	|    5.82         	|
+|    Orseg                   	|    HU             	|    gravel/loess          	|    25                 	|    9.2                 	|    700-800               	|    308          	|    134         	|    5          	|    46.892      	|    16.308       	|
+|    Rambouillet             	|    FR_YP          	|    Acidic sands          	|    16                 	|    10                  	|    600-700               	|    164          	|    180         	|    2          	|    48.671      	|    1.763        	|
+|    Val Tovanella           	|    IT_NE          	|    Dolomite/Limestone    	|    11                 	|    7.2                 	|    1300-1500             	|    1236         	|    306         	|    19         	|    46.309      	|    12.302       	|
+|    Ventoux                 	|    FR_YP          	|    Limestone             	|    9                  	|    7.9                 	|    1000-1100             	|    1356         	|    187         	|    25         	|    44.181      	|    5.261        	|
+|    Ventron                 	|    FR_YP          	|    Limestone             	|    3                  	|    8.9                 	|    1200-1300             	|    956          	|    266         	|    22         	|    47.939      	|    6.931        	|
+|    Vercors                 	|    FR_ALPS        	|    Limestone             	|    18                 	|    7                   	|    1200-1500             	|    1232         	|    189         	|    15         	|    45.145      	|    5.506        	|
+|    Verrières               	|    FR_YP          	|    Acidic sands marls    	|    7                  	|    9.6                 	|    600-700               	|    177          	|    203         	|    2          	|    48.757      	|    2.25         	|
+
+
+Table S1: Caption for this example table. {#tbl:TableS1}
 
 
 ## References {.page_break_before}
