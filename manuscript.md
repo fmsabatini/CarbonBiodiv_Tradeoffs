@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://fmsabatini.github.io/TestManubot/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://fmsabatini.github.io/TestManubot/v/ab828e9688f36c672751bec55f7ecaaf6a6424d7/" />
+  <link rel="alternate" type="text/html" href="https://fmsabatini.github.io/TestManubot/v/97756b0e870b2e127aeb93bfc0643e1f2f3191e1/" />
 
-  <meta name="manubot_html_url_versioned" content="https://fmsabatini.github.io/TestManubot/v/ab828e9688f36c672751bec55f7ecaaf6a6424d7/" />
+  <meta name="manubot_html_url_versioned" content="https://fmsabatini.github.io/TestManubot/v/97756b0e870b2e127aeb93bfc0643e1f2f3191e1/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://fmsabatini.github.io/TestManubot/v/ab828e9688f36c672751bec55f7ecaaf6a6424d7/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://fmsabatini.github.io/TestManubot/v/97756b0e870b2e127aeb93bfc0643e1f2f3191e1/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://fmsabatini.github.io/TestManubot/v/ab828e9688f36c672751bec55f7ecaaf6a6424d7/))
+([permalink](https://fmsabatini.github.io/TestManubot/v/97756b0e870b2e127aeb93bfc0643e1f2f3191e1/))
 was automatically generated
-from [fmsabatini/TestManubot@ab828e9](https://github.com/fmsabatini/TestManubot/tree/ab828e9688f36c672751bec55f7ecaaf6a6424d7)
+from [fmsabatini/TestManubot@97756b0](https://github.com/fmsabatini/TestManubot/tree/97756b0e870b2e127aeb93bfc0643e1f2f3191e1)
 on April 18, 2020.
 </em></small>
 
@@ -156,9 +156,9 @@ biodiversity loss and climate change (MEA, 2005).
 
 ## Materials and methods
 ### Study sites
-Our study area included a network of 352 plots in 22 temperate forest sites (ranging from 200 to 400 km2), sampled in six different projects (Burrascano et al., 2018), and covering a wide latitudinal and longitudinal range across Europe (Figure {@fig:Figure1}1, Table 1{@tbl:TableS1}). 
+Our study area included a network of 352 plots in 22 temperate forest sites (ranging from 200 to 400 km2), sampled in six different projects (Burrascano et al., 2018), and covering a wide latitudinal and longitudinal range across Europe (Figure {@fig:Figure1}, Table {@tbl:example-id}). 
 
-![Figure 1 – Distribution of forest sites in Europe. Pie charts report the relative proportion of plots in different forest types (FTs) for each site. FTs follow EEA (2006). The size of the pie represents the number of plots in each site. Grey shadings represent the distribution of forest in Europe. FT4 - acidophilous oak and oak-birch forest; FT5 - mesophytic deciduous forest; FT6 - European beech (Fagus sylvatica) and (FT7) montane beech forest; FT8 - thermophilous deciduos forest. ](images/Fig1.map.scatterpie_mercator.jit8.png ){#fig:Figure1}
+![Figure 1 – Distribution of forest sites in Europe. Pie charts report the relative proportion of plots in different forest types (FTs) for each site. FTs follow EEA (2006). The size of the pie represents the number of plots in each site. Grey shadings represent the distribution of forest in Europe. FT4 - acidophilous oak and oak-birch forest; FT5 - mesophytic deciduous forest; FT6 - European beech (Fagus sylvatica) and (FT7) montane beech forest; FT8 - thermophilous deciduos forest. ](images/Fig1.map.scatterpie_mercator.jit8.png ){#fig:Figure1 width="3in"}
 
 The sites covered deciduous forest types that are common in temperate Europe, including acidophilous oak and oak-birch forests (20 plots), mesophytic deciduous forests (84 plots), European beech (Fagus sylvatica) and montane beech forests (232 plots in total), as well as thermophilous deciduos forests (16 plots). Forest type nomenclature follows EEA (2006). Although our dataset cannot be considered representative of the overall variability of these forest types, it covers a wide range of structural types (one-, two- and multi-layered stands), ages, management histories, and management regimes, including coppice, shelterwood, group selection and unmanaged stands, comprising late-successional phases of the forest succession gradient. Stands in the Hungarian dataset represent a gradient in tree species composition, from oak- to beech-dominated forest, but all sharing similar age (mature, between 70-120 yr), and mesic conditions. The datasets in the Italian and French Alps contrast pairs of managed and unmanaged stands in similar growing conditions, as well as ancient and recent forests (i.e. resulting from afforestation of previous pastures and meadows). Forest stands in the Cilento National Park were selected as a representative subset of the most common forest types in the park area, while those in the Gran Sasso National Parks spanned across a range of structural types but all belonged to beech-dominated forest types prioritised for conservation. We report summary statistics of the main structural characteristics for each forest site in Table S2 and show the distribution of silvicultural systems across sites in Figure S1.
 
@@ -190,7 +190,7 @@ The sites covered deciduous forest types that are common in temperate Europe, in
 |    Verrières               	|    FR_YP          	|    Acidic sands marls    	|    7                  	|    9.6                 	|    600-700               	|    177          	|    203         	|    2          	|    48.757      	|    2.25         	|
 
 
-Table S1: Caption for this example table. {#tbl:TableS1}
+Table: Caption for this example table. {#tbl:example-id tag="S1"}
 
 
 
