@@ -5,6 +5,10 @@ keywords:
   - publishing
   - manubot
 lang: en-US
+header-includes:
+  - \usepackage[left]{lineno}
+  - \linenumbers
+  
 authors:
   - github: fmsabatini
     name: Francesco Maria Sabatini
@@ -13,19 +17,23 @@ authors:
     twitter: sPlot-iDiv
     email: francesco.sabatini@botanik.uni-halle.de
     affiliations:
-      - Department of Biology, University of Halle-Wittenberg
+      - Geography Department, Humboldt-Universität zu Berlin. Unter den Linden 6, 10099, Berlin. Germany. 
+      - German Centre for Integrative Biodiversity Research (iDiv) - Halle-Jena-Leipzig. Germany
+      - Martin-Luther-Universität Halle-Wittenberg, Institut für Biologie, Am Kirchtor 1, 06108, Halle (Saale). Germany
     funders:
-      - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
+      - Grant No. 658876 - Marie Skłodowska-Curie
+  - github: 
+    name: Rafael Barreto de Andrade
+    initials: RDA
+    orcid: 0000-0002-7976-7647
+    email: 
     affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
----
-header-includes:
-  - \usepackage[left]{lineno}
-  - \linenumbers
-...
+      - Sapienza, University of Rome. P.le Aldo Moro 5, 00185 Rome, Italy
+  - github: 
+    name: Yoan, Paillet
+    initials: YP
+    orcid: 0000-0001-7232-7844
+    email: 
+    affiliations:
+      - Irstea, UR EFNO, Domaine des Barres, 45290 Nogent sur Vernisson, France
+     
