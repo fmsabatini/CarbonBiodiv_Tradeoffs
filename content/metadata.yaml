@@ -24,3 +24,8 @@ authors:
     affiliations:
       - Department of Something, University of Whatever
       - Department of Whatever, University of Something
+---
+header-includes:
+  - \usepackage[left]{lineno}
+  - \linenumbers
+...
