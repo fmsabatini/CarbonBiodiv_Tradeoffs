@@ -2,11 +2,16 @@
 author-meta:
 - Francesco Maria Sabatini
 - Rafael Barreto de Andrade
-- Yoan, Paillet
+- Yoan Paillet
+- "Peter \xD3dor"
+- Christophe Bouget
+- Thomas Campagnaro
+- "Fr\xE9d\xE9ric Gosselin"
+- Philippe Janssen
 bibliography:
 - content/manual-references.json
 date-meta: '2020-04-19'
-header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Manuscript Title\" />\n<meta name=\"citation_title\" content=\"Manuscript Title\" />\n<meta property=\"og:title\" content=\"Manuscript Title\" />\n<meta property=\"twitter:title\" content=\"Manuscript Title\" />\n<meta name=\"dc.date\" content=\"2020-04-19\" />\n<meta name=\"citation_publication_date\" content=\"2020-04-19\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Francesco Maria Sabatini\" />\n<meta name=\"citation_author_institution\" content=\"Geography Department, Humboldt-Universit\xE4t zu Berlin. Unter den Linden 6, 10099, Berlin. Germany.\" />\n<meta name=\"citation_author_institution\" content=\"German Centre for Integrative Biodiversity Research (iDiv) - Halle-Jena-Leipzig. Germany\" />\n<meta name=\"citation_author_institution\" content=\"Martin-Luther-Universit\xE4t Halle-Wittenberg, Institut f\xFCr Biologie, Am Kirchtor 1, 06108, Halle (Saale). Germany\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@sPlot-iDiv\" />\n<meta name=\"citation_author\" content=\"Rafael Barreto de Andrade\" />\n<meta name=\"citation_author_institution\" content=\"Sapienza, University of Rome. P.le Aldo Moro 5, 00185 Rome, Italy\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-7976-7647\" />\n<meta name=\"citation_author\" content=\"Yoan, Paillet\" />\n<meta name=\"citation_author_institution\" content=\"Irstea, UR EFNO, Domaine des Barres, 45290 Nogent sur Vernisson, France\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-7232-7844\" />\n<link rel=\"canonical\" href=\"https://fmsabatini.github.io/TestManubot/\" />\n<meta property=\"og:url\" content=\"https://fmsabatini.github.io/TestManubot/\" />\n<meta property=\"twitter:url\" content=\"https://fmsabatini.github.io/TestManubot/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://fmsabatini.github.io/TestManubot/\" />\n<meta name=\"citation_pdf_url\" content=\"https://fmsabatini.github.io/TestManubot/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://fmsabatini.github.io/TestManubot/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://fmsabatini.github.io/TestManubot/v/87d35f709f622f20b796ebfc42d1e40144253662/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://fmsabatini.github.io/TestManubot/v/87d35f709f622f20b796ebfc42d1e40144253662/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://fmsabatini.github.io/TestManubot/v/87d35f709f622f20b796ebfc42d1e40144253662/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Manuscript Title\" />\n<meta name=\"citation_title\" content=\"Manuscript Title\" />\n<meta property=\"og:title\" content=\"Manuscript Title\" />\n<meta property=\"twitter:title\" content=\"Manuscript Title\" />\n<meta name=\"dc.date\" content=\"2020-04-19\" />\n<meta name=\"citation_publication_date\" content=\"2020-04-19\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Francesco Maria Sabatini\" />\n<meta name=\"citation_author_institution\" content=\"Geography Department, Humboldt-Universit\xE4t zu Berlin. Unter den Linden 6, 10099, Berlin. Germany.\" />\n<meta name=\"citation_author_institution\" content=\"German Centre for Integrative Biodiversity Research (iDiv) - Halle-Jena-Leipzig. Germany\" />\n<meta name=\"citation_author_institution\" content=\"Martin-Luther-Universit\xE4t Halle-Wittenberg, Institut f\xFCr Biologie, Am Kirchtor 1, 06108, Halle (Saale). Germany\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@sPlot-iDiv\" />\n<meta name=\"citation_author\" content=\"Rafael Barreto de Andrade\" />\n<meta name=\"citation_author_institution\" content=\"Sapienza, University of Rome. P.le Aldo Moro 5, 00185 Rome, Italy\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-7976-7647\" />\n<meta name=\"citation_author\" content=\"Yoan Paillet\" />\n<meta name=\"citation_author_institution\" content=\"Irstea, UR EFNO, Domaine des Barres, 45290 Nogent sur Vernisson, France\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-7232-7844\" />\n<meta name=\"citation_author\" content=\"Peter \xD3dor\" />\n<meta name=\"citation_author_institution\" content=\"MTA Centre for Ecological Research, Institute of Ecology and Botany7\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-1729-8897\" />\n<meta name=\"citation_author\" content=\"Christophe Bouget\" />\n<meta name=\"citation_author_institution\" content=\"Irstea, UR EFNO, Domaine des Barres, 45290 Nogent sur Vernisson, France\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-5206-7560\" />\n<meta name=\"citation_author\" content=\"Thomas Campagnaro\" />\n<meta name=\"citation_author_institution\" content=\"Department of Land, Environment, Agriculture and Forestry, Universit\xE0 degli Studi di Padova, I-35020 Legnaro (PD), Italy\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-6307-6892\" />\n<meta name=\"citation_author\" content=\"Fr\xE9d\xE9ric Gosselin\" />\n<meta name=\"citation_author_institution\" content=\"Irstea, UR EFNO, Domaine des Barres, 45290 Nogent sur Vernisson, France\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3737-106X\" />\n<meta name=\"citation_author\" content=\"Philippe Janssen\" />\n<meta name=\"citation_author_institution\" content=\"Universit\xE9 Grenoble-Alpes, Irstea, UR LESSEM, 2 rue de la Papeterie BP 76, 38402 Saint-Martin-d\u2019H\xE8res, France\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3310-0078\" />\n<link rel=\"canonical\" href=\"https://fmsabatini.github.io/TestManubot/\" />\n<meta property=\"og:url\" content=\"https://fmsabatini.github.io/TestManubot/\" />\n<meta property=\"twitter:url\" content=\"https://fmsabatini.github.io/TestManubot/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://fmsabatini.github.io/TestManubot/\" />\n<meta name=\"citation_pdf_url\" content=\"https://fmsabatini.github.io/TestManubot/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://fmsabatini.github.io/TestManubot/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://fmsabatini.github.io/TestManubot/v/d56ad8c92d5e1f58f988026abfb0637d39c2ae67/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://fmsabatini.github.io/TestManubot/v/d56ad8c92d5e1f58f988026abfb0637d39c2ae67/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://fmsabatini.github.io/TestManubot/v/d56ad8c92d5e1f58f988026abfb0637d39c2ae67/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
 - markdown
 - publishing
@@ -26,9 +31,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://fmsabatini.github.io/TestManubot/v/87d35f709f622f20b796ebfc42d1e40144253662/))
+([permalink](https://fmsabatini.github.io/TestManubot/v/d56ad8c92d5e1f58f988026abfb0637d39c2ae67/))
 was automatically generated
-from [fmsabatini/TestManubot@87d35f7](https://github.com/fmsabatini/TestManubot/tree/87d35f709f622f20b796ebfc42d1e40144253662)
+from [fmsabatini/TestManubot@d56ad8c](https://github.com/fmsabatini/TestManubot/tree/d56ad8c92d5e1f58f988026abfb0637d39c2ae67)
 on April 19, 2020.
 </em></small>
 
@@ -55,11 +60,46 @@ on April 19, 2020.
      Sapienza, University of Rome. P.le Aldo Moro 5, 00185 Rome, Italy
   </small>
 
-+ **Yoan, Paillet**<br>
++ **Yoan Paillet**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
     [0000-0001-7232-7844](https://orcid.org/0000-0001-7232-7844)<br>
   <small>
      Irstea, UR EFNO, Domaine des Barres, 45290 Nogent sur Vernisson, France
+  </small>
+
++ **Peter Ódor**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [0000-0003-1729-8897](https://orcid.org/0000-0003-1729-8897)<br>
+  <small>
+     MTA Centre for Ecological Research, Institute of Ecology and Botany7
+  </small>
+
++ **Christophe Bouget**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [0000-0002-5206-7560](https://orcid.org/0000-0002-5206-7560)<br>
+  <small>
+     Irstea, UR EFNO, Domaine des Barres, 45290 Nogent sur Vernisson, France
+  </small>
+
++ **Thomas Campagnaro**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [0000-0002-6307-6892](https://orcid.org/0000-0002-6307-6892)<br>
+  <small>
+     Department of Land, Environment, Agriculture and Forestry, Università degli Studi di Padova, I-35020 Legnaro (PD), Italy
+  </small>
+
++ **Frédéric Gosselin**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [0000-0003-3737-106X](https://orcid.org/0000-0003-3737-106X)<br>
+  <small>
+     Irstea, UR EFNO, Domaine des Barres, 45290 Nogent sur Vernisson, France
+  </small>
+
++ **Philippe Janssen**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [0000-0003-3310-0078](https://orcid.org/0000-0003-3310-0078)<br>
+  <small>
+     Université Grenoble-Alpes, Irstea, UR LESSEM, 2 rue de la Papeterie BP 76, 38402 Saint-Martin-d’Hères, France
   </small>
 
 
@@ -68,6 +108,11 @@ on April 19, 2020.
 
 Policies to mitigate climate change and biodiversity loss often assume that protecting carbon-rich forests provides co-benefits in terms of biodiversity, due to the spatial congruence of carbon stocks and biodiversity at biogeographic scales. However, it remains unclear whether this holds at the scales relevant for management, with particularly large knowledge gaps for temperate forests and for taxa other than trees. We built a comprehensive dataset of Central European temperate forest structure and multi-taxonomic diversity (beetles, birds, bryophytes, fungi, lichens, and plants) across 352 plots. We used Boosted Regression Trees to assess the relationship between above-ground live carbon stocks and (a) taxon-specific richness, (b) a unified multidiversity index. We used Threshold Indicator Taxa ANalysis to explore individual species’ responses to changing above-ground carbon stocks and to detect change-points in species composition along the carbon-stock gradient. Our results reveal an overall weak and highly variable relationship between richness and carbon stock at the stand scale, both for individual taxonomic groups and for multidiversity. Similarly, the proportion of win-win and trade-off species (i.e. species favored or disadvantaged by increasing carbon stock, respectively) varied substantially across taxa. Win-win species gradually replaced trade-off species with increasing carbon, without clear thresholds along the above-ground carbon gradient, suggesting that community-level surrogates (e.g. richness) might fail to detect critical changes in biodiversity. Collectively, our analyses highlight that leveraging co-benefits between carbon and biodiversity in temperate forest may require stand-scale management that prioritizes either biodiversity or carbon-in order to maximize co-benefits at broader scales. Importantly, this contrasts with tropical forests, where climate and biodiversity objectives can be integrated at the stand-scale, thus highlighting the need for context-specificity when managing for multiple objectives. Accounting for critical change-points of target taxa can help to deliver this specificity, by defining a safe operating space to manipulate carbon while avoiding biodiversity losses.
 
+
+---
+header-includes:
+  - \usepackage[left]{lineno}
+...
 
 ## Introduction
 Forests play a critical role in mitigating climate change, 
