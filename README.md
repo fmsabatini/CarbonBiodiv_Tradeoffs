@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/fmsabatini/TestManubot/tree/gh-pages) branch hosts the contents of this directory at <https://fmsabatini.github.io/TestManubot/>.
-The permalink for this webpage version is <https://fmsabatini.github.io/TestManubot/v/f9086cd14eef9315edced46e69aa4556d2c1fd47/>.
+The permalink for this webpage version is <https://fmsabatini.github.io/TestManubot/v/80bfcdc8a3694fcd1938ebc949e1dd1ebb9191e4/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://fmsabatini.github.io/TestManubot/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`f9086cd14eef9315edced46e69aa4556d2c1fd47`](https://github.com/fmsabatini/TestManubot/commit/f9086cd14eef9315edced46e69aa4556d2c1fd47).
+[`80bfcdc8a3694fcd1938ebc949e1dd1ebb9191e4`](https://github.com/fmsabatini/TestManubot/commit/80bfcdc8a3694fcd1938ebc949e1dd1ebb9191e4).
