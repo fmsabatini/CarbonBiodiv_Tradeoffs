@@ -36,38 +36,38 @@ authors:
     email: 
     affiliations:
       - Irstea, UR EFNO, Domaine des Barres, 45290 Nogent sur Vernisson, France
-- github: 
+  - github: 
     name: Peter Ódor
     initials: PO
     orcid: 0000-0003-1729-8897
     email: 
     affiliations:
       - MTA Centre for Ecological Research, Institute of Ecology and Botany7
-- github: 
+  - github: 
     name: Christophe Bouget
     initials: CB
-    orcid: : 0000-0002-5206-7560
+    orcid: 0000-0002-5206-7560
     email: 
     affiliations:
       - Irstea, UR EFNO, Domaine des Barres, 45290 Nogent sur Vernisson, France
-- github: 
+  - github: 
     name: Thomas Campagnaro 
     initials: TC
-    orcid: : 0000-0002-6307-6892
+    orcid: 0000-0002-6307-6892
     email: thomas.campagnaro@unipd.it
     affiliations:
       - Department of Land, Environment, Agriculture and Forestry, Università degli Studi di Padova, I-35020 Legnaro (PD), Italy
-- github: 
+  - github: 
     name: Frédéric Gosselin 
     initials: FG
-    orcid: : 0000-0003-3737-106X
+    orcid: 0000-0003-3737-106X
     email: 
     affiliations:
       - Irstea, UR EFNO, Domaine des Barres, 45290 Nogent sur Vernisson, France
-- github: 
+  - github: 
     name: Philippe Janssen
     initials: PJ
-    orcid: : 0000-0003-3310-0078
+    orcid: 0000-0003-3310-0078
     email: 
     affiliations:
       - Université Grenoble-Alpes, Irstea, UR LESSEM, 2 rue de la Papeterie BP 76, 38402 Saint-Martin-d’Hères, France
