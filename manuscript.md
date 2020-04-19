@@ -1,89 +1,12 @@
 ---
 author-meta:
 - Francesco Maria Sabatini
-- Jane Roe
+- Rafael Barreto de Andrade
+- Yoan, Paillet
 bibliography:
 - content/manual-references.json
-date-meta: '2020-04-18'
-header-includes: '<!--
-
-  Manubot generated metadata rendered from header-includes-template.html.
-
-  Suggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html
-
-  -->
-
-  <meta name="dc.format" content="text/html" />
-
-  <meta name="dc.title" content="Manuscript Title" />
-
-  <meta name="citation_title" content="Manuscript Title" />
-
-  <meta property="og:title" content="Manuscript Title" />
-
-  <meta property="twitter:title" content="Manuscript Title" />
-
-  <meta name="dc.date" content="2020-04-18" />
-
-  <meta name="citation_publication_date" content="2020-04-18" />
-
-  <meta name="dc.language" content="en-US" />
-
-  <meta name="citation_language" content="en-US" />
-
-  <meta name="dc.relation.ispartof" content="Manubot" />
-
-  <meta name="dc.publisher" content="Manubot" />
-
-  <meta name="citation_journal_title" content="Manubot" />
-
-  <meta name="citation_technical_report_institution" content="Manubot" />
-
-  <meta name="citation_author" content="Francesco Maria Sabatini" />
-
-  <meta name="citation_author_institution" content="Department of Biology, University of Halle-Wittenberg" />
-
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-
-  <meta name="twitter:creator" content="@sPlot-iDiv" />
-
-  <meta name="citation_author" content="Jane Roe" />
-
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-
-  <link rel="canonical" href="https://fmsabatini.github.io/TestManubot/" />
-
-  <meta property="og:url" content="https://fmsabatini.github.io/TestManubot/" />
-
-  <meta property="twitter:url" content="https://fmsabatini.github.io/TestManubot/" />
-
-  <meta name="citation_fulltext_html_url" content="https://fmsabatini.github.io/TestManubot/" />
-
-  <meta name="citation_pdf_url" content="https://fmsabatini.github.io/TestManubot/manuscript.pdf" />
-
-  <link rel="alternate" type="application/pdf" href="https://fmsabatini.github.io/TestManubot/manuscript.pdf" />
-
-  <link rel="alternate" type="text/html" href="https://fmsabatini.github.io/TestManubot/v/1b054326a8508a194ebe6a17474ec4933009a1f9/" />
-
-  <meta name="manubot_html_url_versioned" content="https://fmsabatini.github.io/TestManubot/v/1b054326a8508a194ebe6a17474ec4933009a1f9/" />
-
-  <meta name="manubot_pdf_url_versioned" content="https://fmsabatini.github.io/TestManubot/v/1b054326a8508a194ebe6a17474ec4933009a1f9/manuscript.pdf" />
-
-  <meta property="og:type" content="article" />
-
-  <meta property="twitter:card" content="summary_large_image" />
-
-  <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
-
-  <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
-
-  <meta name="theme-color" content="#ad1457" />
-
-  <!-- end Manubot generated metadata -->'
+date-meta: '2020-04-19'
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Manuscript Title\" />\n<meta name=\"citation_title\" content=\"Manuscript Title\" />\n<meta property=\"og:title\" content=\"Manuscript Title\" />\n<meta property=\"twitter:title\" content=\"Manuscript Title\" />\n<meta name=\"dc.date\" content=\"2020-04-19\" />\n<meta name=\"citation_publication_date\" content=\"2020-04-19\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Francesco Maria Sabatini\" />\n<meta name=\"citation_author_institution\" content=\"Geography Department, Humboldt-Universit\xE4t zu Berlin. Unter den Linden 6, 10099, Berlin. Germany.\" />\n<meta name=\"citation_author_institution\" content=\"German Centre for Integrative Biodiversity Research (iDiv) - Halle-Jena-Leipzig. Germany\" />\n<meta name=\"citation_author_institution\" content=\"Martin-Luther-Universit\xE4t Halle-Wittenberg, Institut f\xFCr Biologie, Am Kirchtor 1, 06108, Halle (Saale). Germany\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@sPlot-iDiv\" />\n<meta name=\"citation_author\" content=\"Rafael Barreto de Andrade\" />\n<meta name=\"citation_author_institution\" content=\"Sapienza, University of Rome. P.le Aldo Moro 5, 00185 Rome, Italy\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-7976-7647\" />\n<meta name=\"citation_author\" content=\"Yoan, Paillet\" />\n<meta name=\"citation_author_institution\" content=\"Irstea, UR EFNO, Domaine des Barres, 45290 Nogent sur Vernisson, France\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-7232-7844\" />\n<link rel=\"canonical\" href=\"https://fmsabatini.github.io/TestManubot/\" />\n<meta property=\"og:url\" content=\"https://fmsabatini.github.io/TestManubot/\" />\n<meta property=\"twitter:url\" content=\"https://fmsabatini.github.io/TestManubot/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://fmsabatini.github.io/TestManubot/\" />\n<meta name=\"citation_pdf_url\" content=\"https://fmsabatini.github.io/TestManubot/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://fmsabatini.github.io/TestManubot/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://fmsabatini.github.io/TestManubot/v/87d35f709f622f20b796ebfc42d1e40144253662/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://fmsabatini.github.io/TestManubot/v/87d35f709f622f20b796ebfc42d1e40144253662/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://fmsabatini.github.io/TestManubot/v/87d35f709f622f20b796ebfc42d1e40144253662/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
 - markdown
 - publishing
@@ -103,10 +26,10 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://fmsabatini.github.io/TestManubot/v/1b054326a8508a194ebe6a17474ec4933009a1f9/))
+([permalink](https://fmsabatini.github.io/TestManubot/v/87d35f709f622f20b796ebfc42d1e40144253662/))
 was automatically generated
-from [fmsabatini/TestManubot@1b05432](https://github.com/fmsabatini/TestManubot/tree/1b054326a8508a194ebe6a17474ec4933009a1f9)
-on April 18, 2020.
+from [fmsabatini/TestManubot@87d35f7](https://github.com/fmsabatini/TestManubot/tree/87d35f709f622f20b796ebfc42d1e40144253662)
+on April 19, 2020.
 </em></small>
 
 ## Authors
@@ -121,17 +44,22 @@ on April 18, 2020.
     · ![Twitter icon](images/twitter.svg){.inline_icon}
     [sPlot-iDiv](https://twitter.com/sPlot-iDiv)<br>
   <small>
-     Department of Biology, University of Halle-Wittenberg
-     · Funded by Grant XXXXXXXX
+     Geography Department, Humboldt-Universität zu Berlin. Unter den Linden 6, 10099, Berlin. Germany.; German Centre for Integrative Biodiversity Research (iDiv) - Halle-Jena-Leipzig. Germany; Martin-Luther-Universität Halle-Wittenberg, Institut für Biologie, Am Kirchtor 1, 06108, Halle (Saale). Germany
+     · Funded by Grant No. 658876 - Marie Skłodowska-Curie
   </small>
 
-+ **Jane Roe**<br>
++ **Rafael Barreto de Andrade**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [janeroe](https://github.com/janeroe)<br>
+    [0000-0002-7976-7647](https://orcid.org/0000-0002-7976-7647)<br>
   <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     Sapienza, University of Rome. P.le Aldo Moro 5, 00185 Rome, Italy
+  </small>
+
++ **Yoan, Paillet**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [0000-0001-7232-7844](https://orcid.org/0000-0001-7232-7844)<br>
+  <small>
+     Irstea, UR EFNO, Domaine des Barres, 45290 Nogent sur Vernisson, France
   </small>
 
 
