@@ -5,9 +5,6 @@ keywords:
   - publishing
   - manubot
 lang: en-US
-header-includes:
-  - \usepackage[left]{lineno}
-  - \linenumbers
   
 authors:
   - github: fmsabatini
@@ -51,7 +48,7 @@ authors:
     affiliations:
       - Irstea, UR EFNO, Domaine des Barres, 45290 Nogent sur Vernisson, France
   - github: 
-    name: Thomas Campagnaro 
+    name: Thomas Campagnaro
     initials: TC
     orcid: 0000-0002-6307-6892
     email: thomas.campagnaro@unipd.it
@@ -78,21 +75,21 @@ authors:
     email: 
     affiliations:
       - Council for Agricultural Research and Economics, Research Centre for Forestry and Wood (CREA-FL), v.le Santa Margherita 80, I-52100 Arezzo (AR), Italy
-   - github: 
+  - github: 
     name: Juri Nascimbene
     initials: JN
     orcid: 0000-0002-9174-654X
     email: 
     affiliations:
       - University of Bologna, Department of Biological, Geological and Environmental Sciences, via Irnerio 42, 40126 Bologna
-   - github: 
+  - github: 
     name: Tommaso Sitzia
     initials: TS
     orcid: 0000-0001-6221-4256
     email: 
     affiliations:
       - Department of Land, Environment, Agriculture and Forestry, Università degli Studi di Padova, I-35020 Legnaro (PD), Italy
-   - github: 
+  - github: 
     name: Tobias Kuemmerle
     initials: TK
     orcid: 0000-0002-9775-142X
@@ -100,7 +97,7 @@ authors:
     affiliations:
       - Geography Department, Humboldt-Universität zu Berlin. Unter den Linden 6, 10099 Berlin, Germany 
       - Integrative Research Institute for Human Environment Transformation (IRI THESys), Humboldt-Universität zu Berlin. Unter den Linden 6, 10099 Berlin, Germany
-   - github: 
+  - github: 
     name: Sabina Burrascano
     initials: SB
     orcid: 0000-0002-6537-3313
