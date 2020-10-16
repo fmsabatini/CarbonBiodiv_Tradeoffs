@@ -1,3 +1,8 @@
+# Testing Manubot to reproduce a published manuscript
+In this repo, I'm testing the workflow introduced by manubot to reproduce (and release open-access) the manuscript **Trade‐offs between carbon stocks and biodiversity in European temperate forests**, published in *Global change biology* in 2018. The original manuscript is available here: https://onlinelibrary.wiley.com/doi/10.1111/gcb.14503.
+The deployed OA manuscript is here: https://fmsabatini.github.io/TestManubot/
+
+
 # Automated scholarly manuscripts on GitHub
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
