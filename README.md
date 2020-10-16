@@ -1,8 +1,8 @@
 # Output directory containing the formatted manuscript
 
-The [`gh-pages`](https://github.com/fmsabatini/TestManubot/tree/gh-pages) branch hosts the contents of this directory at <https://fmsabatini.github.io/TestManubot/>.
-The permalink for this webpage version is <https://fmsabatini.github.io/TestManubot/v/af24a3bdad643c430dd56e98129236565570135e/>.
-To redirect to the permalink for the latest manuscript version at anytime, use the link <https://fmsabatini.github.io/TestManubot/v/freeze/>.
+The [`gh-pages`](https://github.com/fmsabatini/CarbonBiodiv_Tradeoffs/tree/gh-pages) branch hosts the contents of this directory at <https://fmsabatini.github.io/CarbonBiodiv_Tradeoffs/>.
+The permalink for this webpage version is <https://fmsabatini.github.io/CarbonBiodiv_Tradeoffs/v/2dbe2a74d051344664e02af9784b32b9d74e3f39/>.
+To redirect to the permalink for the latest manuscript version at anytime, use the link <https://fmsabatini.github.io/CarbonBiodiv_Tradeoffs/v/freeze/>.
 
 ## Files
 
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`af24a3bdad643c430dd56e98129236565570135e`](https://github.com/fmsabatini/TestManubot/commit/af24a3bdad643c430dd56e98129236565570135e).
+[`2dbe2a74d051344664e02af9784b32b9d74e3f39`](https://github.com/fmsabatini/CarbonBiodiv_Tradeoffs/commit/2dbe2a74d051344664e02af9784b32b9d74e3f39).
